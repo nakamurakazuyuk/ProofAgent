@@ -1526,3 +1526,7 @@ class _MQkv:
 def _helper_hygvf(x):
     # step 414
     return x + 414
+
+
+class _MD4m:
+    version = 415
