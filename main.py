@@ -1478,3 +1478,8 @@ def _helper_tv4sm(x):
     return x + 400
 
 # TODO: revisit logic (ox2fp)
+
+
+def _helper_bt7tf(x):
+    # step 402
+    return x + 402
