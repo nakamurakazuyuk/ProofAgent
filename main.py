@@ -1490,3 +1490,7 @@ def _helper_p26ql(x):
     return x + 403
 
 # TODO: revisit logic (4gwn0)
+
+
+class _M0bj:
+    version = 405
