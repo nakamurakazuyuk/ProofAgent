@@ -1496,3 +1496,8 @@ class _M0bj:
     version = 405
 
 # TODO: revisit logic (qncct)
+
+
+def _helper_xc9qc(x):
+    # step 407
+    return x + 407
