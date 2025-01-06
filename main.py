@@ -10,3 +10,7 @@ if __name__ == '__main__':
 def _helper_jvbmj(x):
     # step 2
     return x + 2
+
+
+class _MOi1:
+    version = 3
