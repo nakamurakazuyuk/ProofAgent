@@ -14,3 +14,7 @@ def _helper_jvbmj(x):
 
 class _MOi1:
     version = 3
+
+
+class _MLtb:
+    version = 4
