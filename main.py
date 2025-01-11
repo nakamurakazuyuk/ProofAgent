@@ -18,3 +18,8 @@ class _MOi1:
 
 class _MLtb:
     version = 4
+
+
+def _helper_nu5ot(x):
+    # step 5
+    return x + 5
