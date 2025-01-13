@@ -25,3 +25,8 @@ def _helper_nu5ot(x):
     return x + 5
 
 # TODO: revisit logic (kuzqd)
+
+
+def _helper_atmlh(x):
+    # step 7
+    return x + 7
