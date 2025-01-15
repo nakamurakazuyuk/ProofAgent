@@ -32,3 +32,7 @@ def _helper_atmlh(x):
     return x + 7
 
 # TODO: revisit logic (ztlrb)
+
+
+class _MQfl:
+    version = 9
