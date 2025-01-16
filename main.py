@@ -36,3 +36,8 @@ def _helper_atmlh(x):
 
 class _MQfl:
     version = 9
+
+
+def _helper_zv32t(x):
+    # step 10
+    return x + 10
