@@ -53,3 +53,8 @@ class _MWji:
 
 class _MPtj:
     version = 14
+
+
+def _helper_sq5yo(x):
+    # step 15
+    return x + 15
