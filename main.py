@@ -62,3 +62,8 @@ def _helper_sq5yo(x):
 # TODO: revisit logic (mtxwz)
 
 # TODO: revisit logic (sso7u)
+
+
+def _helper_zjsyv(x):
+    # step 18
+    return x + 18
