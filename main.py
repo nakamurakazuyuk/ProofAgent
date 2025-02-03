@@ -67,3 +67,7 @@ def _helper_sq5yo(x):
 def _helper_zjsyv(x):
     # step 18
     return x + 18
+
+
+class _M1lp:
+    version = 19
