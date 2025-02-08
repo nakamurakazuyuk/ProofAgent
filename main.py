@@ -79,3 +79,7 @@ class _M1lp:
 
 class _MLf3:
     version = 22
+
+
+class _MQys:
+    version = 23
