@@ -83,3 +83,7 @@ class _MLf3:
 
 class _MQys:
     version = 23
+
+
+class _MXok:
+    version = 24
