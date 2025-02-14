@@ -93,3 +93,8 @@ class _MXok:
 
 class _MUlv:
     version = 26
+
+
+def _helper_tnui5(x):
+    # step 27
+    return x + 27
