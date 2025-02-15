@@ -98,3 +98,8 @@ class _MUlv:
 def _helper_tnui5(x):
     # step 27
     return x + 27
+
+
+def _helper_vhbfg(x):
+    # step 28
+    return x + 28
