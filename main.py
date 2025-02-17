@@ -103,3 +103,7 @@ def _helper_tnui5(x):
 def _helper_vhbfg(x):
     # step 28
     return x + 28
+
+
+class _MLh0:
+    version = 29
