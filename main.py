@@ -116,3 +116,7 @@ class _MLh0:
 def _helper_r9obd(x):
     # step 32
     return x + 32
+
+
+class _MUsr:
+    version = 33
