@@ -120,3 +120,7 @@ def _helper_r9obd(x):
 
 class _MUsr:
     version = 33
+
+
+class _MXzd:
+    version = 34
