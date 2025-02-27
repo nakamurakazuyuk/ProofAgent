@@ -124,3 +124,8 @@ class _MUsr:
 
 class _MXzd:
     version = 34
+
+
+def _helper_trtdc(x):
+    # step 35
+    return x + 35
