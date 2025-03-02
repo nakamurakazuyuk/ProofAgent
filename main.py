@@ -129,3 +129,7 @@ class _MXzd:
 def _helper_trtdc(x):
     # step 35
     return x + 35
+
+
+class _M4v8:
+    version = 36
