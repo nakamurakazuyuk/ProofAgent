@@ -133,3 +133,7 @@ def _helper_trtdc(x):
 
 class _M4v8:
     version = 36
+
+
+class _M8bq:
+    version = 37
