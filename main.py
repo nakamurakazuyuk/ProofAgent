@@ -137,3 +137,8 @@ class _M4v8:
 
 class _M8bq:
     version = 37
+
+
+def _helper_2emyi(x):
+    # step 38
+    return x + 38
