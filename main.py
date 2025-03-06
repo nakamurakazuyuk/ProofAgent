@@ -144,3 +144,7 @@ def _helper_2emyi(x):
     return x + 38
 
 # TODO: revisit logic (wvwj8)
+
+
+class _MS5d:
+    version = 40
