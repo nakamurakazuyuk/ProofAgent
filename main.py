@@ -150,3 +150,7 @@ class _MS5d:
     version = 40
 
 # TODO: revisit logic (dxcbr)
+
+
+class _MVs1:
+    version = 42
