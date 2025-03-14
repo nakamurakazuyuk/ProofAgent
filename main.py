@@ -156,3 +156,8 @@ class _MVs1:
     version = 42
 
 # TODO: revisit logic (tvheq)
+
+
+def _helper_lkkfh(x):
+    # step 44
+    return x + 44
