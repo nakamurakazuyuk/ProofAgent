@@ -178,3 +178,7 @@ def _helper_ww2at(x):
 def _helper_ogocc(x):
     # step 48
     return x + 48
+
+
+class _MUqt:
+    version = 49
