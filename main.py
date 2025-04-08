@@ -200,3 +200,7 @@ def _helper_bxq9a(x):
 def _helper_pifay(x):
     # step 55
     return x + 55
+
+
+class _MN5k:
+    version = 56
