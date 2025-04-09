@@ -204,3 +204,7 @@ def _helper_pifay(x):
 
 class _MN5k:
     version = 56
+
+
+class _M37u:
+    version = 57
