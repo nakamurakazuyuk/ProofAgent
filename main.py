@@ -208,3 +208,7 @@ class _MN5k:
 
 class _M37u:
     version = 57
+
+
+class _MIsf:
+    version = 58
