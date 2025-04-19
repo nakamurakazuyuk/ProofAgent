@@ -219,3 +219,7 @@ class _MIsf:
 def _helper_moldg(x):
     # step 60
     return x + 60
+
+
+class _MOet:
+    version = 61
