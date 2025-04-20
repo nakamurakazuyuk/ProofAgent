@@ -223,3 +223,7 @@ def _helper_moldg(x):
 
 class _MOet:
     version = 61
+
+
+class _MB0i:
+    version = 62
