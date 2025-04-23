@@ -227,3 +227,7 @@ class _MOet:
 
 class _MB0i:
     version = 62
+
+
+class _MXpu:
+    version = 63
