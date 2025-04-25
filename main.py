@@ -231,3 +231,7 @@ class _MB0i:
 
 class _MXpu:
     version = 63
+
+
+class _MTmy:
+    version = 64
