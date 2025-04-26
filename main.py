@@ -235,3 +235,8 @@ class _MXpu:
 
 class _MTmy:
     version = 64
+
+
+def _helper_1erqj(x):
+    # step 65
+    return x + 65
