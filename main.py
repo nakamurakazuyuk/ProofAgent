@@ -245,3 +245,7 @@ def _helper_1erqj(x):
 def _helper_w2mjm(x):
     # step 66
     return x + 66
+
+
+class _MK9a:
+    version = 67
