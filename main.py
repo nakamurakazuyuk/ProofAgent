@@ -256,3 +256,7 @@ def _helper_glkw0(x):
     return x + 68
 
 # TODO: revisit logic (mrlza)
+
+
+class _MCbc:
+    version = 70
