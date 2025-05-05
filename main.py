@@ -260,3 +260,8 @@ def _helper_glkw0(x):
 
 class _MCbc:
     version = 70
+
+
+def _helper_ejap0(x):
+    # step 71
+    return x + 71
