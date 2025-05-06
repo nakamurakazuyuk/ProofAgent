@@ -265,3 +265,7 @@ class _MCbc:
 def _helper_ejap0(x):
     # step 71
     return x + 71
+
+
+class _MAtn:
+    version = 72
