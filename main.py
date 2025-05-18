@@ -284,3 +284,7 @@ def _helper_utcmj(x):
 
 class _M85d:
     version = 77
+
+
+class _M2ev:
+    version = 78
