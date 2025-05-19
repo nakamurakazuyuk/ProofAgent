@@ -288,3 +288,8 @@ class _M85d:
 
 class _M2ev:
     version = 78
+
+
+def _helper_xq1jz(x):
+    # step 79
+    return x + 79
