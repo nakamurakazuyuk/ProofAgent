@@ -293,3 +293,8 @@ class _M2ev:
 def _helper_xq1jz(x):
     # step 79
     return x + 79
+
+
+def _helper_lonen(x):
+    # step 80
+    return x + 80
