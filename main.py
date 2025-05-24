@@ -300,3 +300,8 @@ def _helper_lonen(x):
     return x + 80
 
 # TODO: revisit logic (mjsik)
+
+
+def _helper_kcfxt(x):
+    # step 82
+    return x + 82
