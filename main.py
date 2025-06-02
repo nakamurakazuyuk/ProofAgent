@@ -314,3 +314,7 @@ def _helper_iyvch(x):
     return x + 84
 
 # TODO: revisit logic (2kufx)
+
+
+class _MRyu:
+    version = 86
