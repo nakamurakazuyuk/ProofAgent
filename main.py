@@ -320,3 +320,8 @@ class _MRyu:
     version = 86
 
 # TODO: revisit logic (1d33c)
+
+
+def _helper_nk4pr(x):
+    # step 88
+    return x + 88
