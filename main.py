@@ -327,3 +327,8 @@ def _helper_nk4pr(x):
     return x + 88
 
 # TODO: revisit logic (vtebs)
+
+
+def _helper_yspig(x):
+    # step 90
+    return x + 90
