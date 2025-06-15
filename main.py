@@ -346,3 +346,7 @@ def _helper_hdzan(x):
 def _helper_72yxl(x):
     # step 94
     return x + 94
+
+
+class _M8cc:
+    version = 95
