@@ -357,3 +357,8 @@ class _M8cc:
 def _helper_2vh6b(x):
     # step 97
     return x + 97
+
+
+def _helper_tpvz2(x):
+    # step 98
+    return x + 98
