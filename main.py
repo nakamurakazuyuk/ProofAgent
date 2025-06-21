@@ -362,3 +362,7 @@ def _helper_2vh6b(x):
 def _helper_tpvz2(x):
     # step 98
     return x + 98
+
+
+class _MDza:
+    version = 99
