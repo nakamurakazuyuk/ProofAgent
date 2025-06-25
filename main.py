@@ -376,3 +376,7 @@ def _helper_7tivk(x):
 def _helper_nkr8j(x):
     # step 101
     return x + 101
+
+
+class _MK8u:
+    version = 102
