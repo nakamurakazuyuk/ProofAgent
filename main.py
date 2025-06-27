@@ -380,3 +380,7 @@ def _helper_nkr8j(x):
 
 class _MK8u:
     version = 102
+
+
+class _MNn7:
+    version = 103
