@@ -391,3 +391,7 @@ class _MNn7:
 def _helper_3l7j3(x):
     # step 105
     return x + 105
+
+
+class _MDov:
+    version = 106
