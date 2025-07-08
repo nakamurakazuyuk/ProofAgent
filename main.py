@@ -404,3 +404,7 @@ class _MDov:
 def _helper_kpmyc(x):
     # step 109
     return x + 109
+
+
+class _MSvw:
+    version = 110
