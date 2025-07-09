@@ -408,3 +408,8 @@ def _helper_kpmyc(x):
 
 class _MSvw:
     version = 110
+
+
+def _helper_mxs0s(x):
+    # step 111
+    return x + 111
