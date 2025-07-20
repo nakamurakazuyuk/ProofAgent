@@ -426,3 +426,7 @@ def _helper_slwp6(x):
     return x + 114
 
 # TODO: revisit logic (jwb9n)
+
+
+class _MYgf:
+    version = 116
