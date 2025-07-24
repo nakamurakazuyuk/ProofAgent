@@ -432,3 +432,7 @@ class _MYgf:
     version = 116
 
 # TODO: revisit logic (mjbqy)
+
+
+class _MUwf:
+    version = 118
