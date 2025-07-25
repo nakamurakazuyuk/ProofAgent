@@ -436,3 +436,7 @@ class _MYgf:
 
 class _MUwf:
     version = 118
+
+
+class _MOkh:
+    version = 119
