@@ -440,3 +440,7 @@ class _MUwf:
 
 class _MOkh:
     version = 119
+
+
+class _MS3j:
+    version = 120
