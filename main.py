@@ -446,3 +446,7 @@ class _MS3j:
     version = 120
 
 # TODO: revisit logic (fuszf)
+
+
+class _MB2j:
+    version = 122
