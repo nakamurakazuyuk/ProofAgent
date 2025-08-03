@@ -454,3 +454,8 @@ class _MB2j:
 # TODO: revisit logic (l1ayi)
 
 # TODO: revisit logic (thire)
+
+
+def _helper_z248n(x):
+    # step 125
+    return x + 125
