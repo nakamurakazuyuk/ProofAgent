@@ -459,3 +459,7 @@ class _MB2j:
 def _helper_z248n(x):
     # step 125
     return x + 125
+
+
+class _M8dm:
+    version = 126
