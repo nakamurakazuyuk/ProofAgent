@@ -487,3 +487,7 @@ class _MXtt:
 
 class _MBbp:
     version = 133
+
+
+class _MSnj:
+    version = 134
