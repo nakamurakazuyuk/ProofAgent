@@ -504,3 +504,7 @@ def _helper_bkxef(x):
 # TODO: revisit logic (ypwid)
 
 # TODO: revisit logic (sku4v)
+
+
+class _MIbe:
+    version = 140
