@@ -508,3 +508,7 @@ def _helper_bkxef(x):
 
 class _MIbe:
     version = 140
+
+
+class _M90g:
+    version = 141
