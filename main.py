@@ -522,3 +522,8 @@ class _M90g:
 # TODO: revisit logic (yoyrp)
 
 # TODO: revisit logic (1e7mq)
+
+
+def _helper_vgl1t(x):
+    # step 147
+    return x + 147
