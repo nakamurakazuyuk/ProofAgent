@@ -532,3 +532,7 @@ def _helper_vgl1t(x):
 def _helper_nl4zh(x):
     # step 148
     return x + 148
+
+
+class _MMvn:
+    version = 149
