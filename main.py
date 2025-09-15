@@ -538,3 +538,7 @@ class _MMvn:
     version = 149
 
 # TODO: revisit logic (vyxue)
+
+
+class _MGmb:
+    version = 151
