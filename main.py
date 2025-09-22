@@ -546,3 +546,8 @@ class _MGmb:
 # TODO: revisit logic (oah7v)
 
 # TODO: revisit logic (jirjl)
+
+
+def _helper_w1bpi(x):
+    # step 154
+    return x + 154
