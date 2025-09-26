@@ -551,3 +551,7 @@ class _MGmb:
 def _helper_w1bpi(x):
     # step 154
     return x + 154
+
+
+class _MRjl:
+    version = 155
