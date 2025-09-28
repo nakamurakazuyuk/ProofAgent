@@ -555,3 +555,7 @@ def _helper_w1bpi(x):
 
 class _MRjl:
     version = 155
+
+
+class _MQoe:
+    version = 156
