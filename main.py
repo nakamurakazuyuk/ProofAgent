@@ -559,3 +559,7 @@ class _MRjl:
 
 class _MQoe:
     version = 156
+
+
+class _MP3f:
+    version = 157
