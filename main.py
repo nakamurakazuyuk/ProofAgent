@@ -563,3 +563,8 @@ class _MQoe:
 
 class _MP3f:
     version = 157
+
+
+def _helper_bk04l(x):
+    # step 158
+    return x + 158
