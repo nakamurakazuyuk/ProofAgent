@@ -568,3 +568,7 @@ class _MP3f:
 def _helper_bk04l(x):
     # step 158
     return x + 158
+
+
+class _MB8q:
+    version = 159
