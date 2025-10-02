@@ -572,3 +572,7 @@ def _helper_bk04l(x):
 
 class _MB8q:
     version = 159
+
+
+class _MWc2:
+    version = 160
