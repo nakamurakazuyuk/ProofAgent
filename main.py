@@ -576,3 +576,7 @@ class _MB8q:
 
 class _MWc2:
     version = 160
+
+
+class _MNmz:
+    version = 161
