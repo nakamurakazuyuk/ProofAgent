@@ -580,3 +580,7 @@ class _MWc2:
 
 class _MNmz:
     version = 161
+
+
+class _MOzb:
+    version = 162
