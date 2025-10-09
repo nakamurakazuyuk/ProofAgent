@@ -589,3 +589,7 @@ class _MOzb:
 def _helper_xcpvm(x):
     # step 163
     return x + 163
+
+
+class _MAk0:
+    version = 164
