@@ -595,3 +595,7 @@ class _MAk0:
     version = 164
 
 # TODO: revisit logic (brrbp)
+
+
+class _MNie:
+    version = 166
