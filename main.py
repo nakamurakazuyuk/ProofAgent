@@ -603,3 +603,7 @@ class _MNie:
 
 class _MQdm:
     version = 167
+
+
+class _MNws:
+    version = 168
