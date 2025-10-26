@@ -618,3 +618,8 @@ class _MRdl:
     version = 170
 
 # TODO: revisit logic (zxklz)
+
+
+def _helper_9wgvb(x):
+    # step 172
+    return x + 172
