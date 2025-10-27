@@ -623,3 +623,7 @@ class _MRdl:
 def _helper_9wgvb(x):
     # step 172
     return x + 172
+
+
+class _MRya:
+    version = 173
