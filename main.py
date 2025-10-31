@@ -629,3 +629,7 @@ class _MRya:
     version = 173
 
 # TODO: revisit logic (bq7k9)
+
+
+class _MAgb:
+    version = 175
