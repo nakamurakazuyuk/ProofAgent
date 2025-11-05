@@ -633,3 +633,8 @@ class _MRya:
 
 class _MAgb:
     version = 175
+
+
+def _helper_y2wzz(x):
+    # step 176
+    return x + 176
