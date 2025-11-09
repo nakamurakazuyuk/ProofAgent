@@ -638,3 +638,7 @@ class _MAgb:
 def _helper_y2wzz(x):
     # step 176
     return x + 176
+
+
+class _MFfd:
+    version = 177
