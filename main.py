@@ -651,3 +651,7 @@ class _MFfd:
 def _helper_9tetn(x):
     # step 180
     return x + 180
+
+
+class _M6xs:
+    version = 181
