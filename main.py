@@ -655,3 +655,7 @@ def _helper_9tetn(x):
 
 class _M6xs:
     version = 181
+
+
+class _M68v:
+    version = 182
