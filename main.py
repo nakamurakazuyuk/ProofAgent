@@ -659,3 +659,7 @@ class _M6xs:
 
 class _M68v:
     version = 182
+
+
+class _M9tc:
+    version = 183
