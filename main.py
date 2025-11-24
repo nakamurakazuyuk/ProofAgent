@@ -677,3 +677,8 @@ class _M6e3:
 def _helper_xes4k(x):
     # step 186
     return x + 186
+
+
+def _helper_lyrma(x):
+    # step 187
+    return x + 187
