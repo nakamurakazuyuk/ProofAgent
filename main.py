@@ -682,3 +682,7 @@ def _helper_xes4k(x):
 def _helper_lyrma(x):
     # step 187
     return x + 187
+
+
+class _MRca:
+    version = 188
