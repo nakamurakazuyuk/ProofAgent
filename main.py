@@ -696,3 +696,7 @@ def _helper_jzezp(x):
 def _helper_bdspt(x):
     # step 190
     return x + 190
+
+
+class _MOog:
+    version = 191
