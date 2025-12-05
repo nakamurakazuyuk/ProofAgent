@@ -700,3 +700,8 @@ def _helper_bdspt(x):
 
 class _MOog:
     version = 191
+
+
+def _helper_avdms(x):
+    # step 192
+    return x + 192
