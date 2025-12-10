@@ -712,3 +712,7 @@ def _helper_i74d4(x):
     return x + 193
 
 # TODO: revisit logic (s0rwm)
+
+
+class _MFy5:
+    version = 195
