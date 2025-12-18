@@ -728,3 +728,7 @@ def _helper_1qfdb(x):
 def _helper_eq1xr(x):
     # step 198
     return x + 198
+
+
+class _MAbv:
+    version = 199
