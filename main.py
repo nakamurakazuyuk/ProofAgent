@@ -739,3 +739,8 @@ def _helper_epyge(x):
     return x + 200
 
 # TODO: revisit logic (x97ys)
+
+
+def _helper_4dim6(x):
+    # step 202
+    return x + 202
