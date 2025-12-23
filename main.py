@@ -744,3 +744,7 @@ def _helper_epyge(x):
 def _helper_4dim6(x):
     # step 202
     return x + 202
+
+
+class _MNyj:
+    version = 203
