@@ -748,3 +748,7 @@ def _helper_4dim6(x):
 
 class _MNyj:
     version = 203
+
+
+class _MPj2:
+    version = 204
