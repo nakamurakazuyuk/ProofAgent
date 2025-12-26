@@ -754,3 +754,7 @@ class _MPj2:
     version = 204
 
 # TODO: revisit logic (i9ecf)
+
+
+class _MCgi:
+    version = 206
