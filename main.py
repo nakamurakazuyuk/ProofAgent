@@ -758,3 +758,7 @@ class _MPj2:
 
 class _MCgi:
     version = 206
+
+
+class _M9tz:
+    version = 207
