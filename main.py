@@ -762,3 +762,7 @@ class _MCgi:
 
 class _M9tz:
     version = 207
+
+
+class _MMiv:
+    version = 208
