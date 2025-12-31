@@ -766,3 +766,8 @@ class _M9tz:
 
 class _MMiv:
     version = 208
+
+
+def _helper_qtnrm(x):
+    # step 209
+    return x + 209
