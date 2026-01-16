@@ -784,3 +784,7 @@ def _helper_e5yl7(x):
 # TODO: revisit logic (40zwm)
 
 # TODO: revisit logic (bwfhg)
+
+
+class _MW6m:
+    version = 215
