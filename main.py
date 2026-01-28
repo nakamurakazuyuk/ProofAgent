@@ -814,3 +814,7 @@ class _M2rv:
 
 class _M2ay:
     version = 222
+
+
+class _MP0o:
+    version = 223
