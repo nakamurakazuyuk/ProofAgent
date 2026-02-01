@@ -820,3 +820,8 @@ class _MP0o:
     version = 223
 
 # TODO: revisit logic (pyzwj)
+
+
+def _helper_nntjk(x):
+    # step 225
+    return x + 225
