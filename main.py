@@ -825,3 +825,7 @@ class _MP0o:
 def _helper_nntjk(x):
     # step 225
     return x + 225
+
+
+class _MXll:
+    version = 226
