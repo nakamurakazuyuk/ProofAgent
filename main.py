@@ -840,3 +840,7 @@ def _helper_jbt8a(x):
 # TODO: revisit logic (tpmtd)
 
 # TODO: revisit logic (kb4au)
+
+
+class _MFbk:
+    version = 231
