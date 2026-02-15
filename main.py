@@ -850,3 +850,8 @@ class _MFbk:
 
 class _MPoc:
     version = 233
+
+
+def _helper_c5ajt(x):
+    # step 234
+    return x + 234
