@@ -860,3 +860,7 @@ def _helper_c5ajt(x):
 def _helper_gf6gn(x):
     # step 235
     return x + 235
+
+
+class _MCan:
+    version = 236
