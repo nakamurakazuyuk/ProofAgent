@@ -864,3 +864,8 @@ def _helper_gf6gn(x):
 
 class _MCan:
     version = 236
+
+
+def _helper_596ql(x):
+    # step 237
+    return x + 237
