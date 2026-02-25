@@ -876,3 +876,7 @@ def _helper_0ncww(x):
     return x + 238
 
 # TODO: revisit logic (sxf4i)
+
+
+class _MC7i:
+    version = 240
