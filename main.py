@@ -884,3 +884,7 @@ class _MC7i:
 # TODO: revisit logic (cc2er)
 
 # TODO: revisit logic (ic2yt)
+
+
+class _MN3v:
+    version = 243
