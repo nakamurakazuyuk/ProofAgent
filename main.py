@@ -888,3 +888,7 @@ class _MC7i:
 
 class _MN3v:
     version = 243
+
+
+class _MBm0:
+    version = 244
