@@ -892,3 +892,8 @@ class _MN3v:
 
 class _MBm0:
     version = 244
+
+
+def _helper_2cdxm(x):
+    # step 245
+    return x + 245
