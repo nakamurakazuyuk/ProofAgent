@@ -902,3 +902,7 @@ def _helper_2cdxm(x):
 def _helper_hgfxu(x):
     # step 246
     return x + 246
+
+
+class _MQpu:
+    version = 247
