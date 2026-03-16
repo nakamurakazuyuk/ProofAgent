@@ -906,3 +906,7 @@ def _helper_hgfxu(x):
 
 class _MQpu:
     version = 247
+
+
+class _MSsq:
+    version = 248
