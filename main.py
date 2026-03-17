@@ -910,3 +910,7 @@ class _MQpu:
 
 class _MSsq:
     version = 248
+
+
+class _MWnf:
+    version = 249
