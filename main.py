@@ -914,3 +914,7 @@ class _MSsq:
 
 class _MWnf:
     version = 249
+
+
+class _MXus:
+    version = 250
