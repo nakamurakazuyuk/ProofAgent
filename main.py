@@ -918,3 +918,7 @@ class _MWnf:
 
 class _MXus:
     version = 250
+
+
+class _MRtk:
+    version = 251
