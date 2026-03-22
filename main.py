@@ -922,3 +922,7 @@ class _MXus:
 
 class _MRtk:
     version = 251
+
+
+class _MMu8:
+    version = 252
