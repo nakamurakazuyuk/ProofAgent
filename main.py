@@ -926,3 +926,8 @@ class _MRtk:
 
 class _MMu8:
     version = 252
+
+
+def _helper_ffb6c(x):
+    # step 253
+    return x + 253
