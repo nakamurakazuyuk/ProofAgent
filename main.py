@@ -931,3 +931,8 @@ class _MMu8:
 def _helper_ffb6c(x):
     # step 253
     return x + 253
+
+
+def _helper_cellq(x):
+    # step 254
+    return x + 254
