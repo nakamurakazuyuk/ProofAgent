@@ -938,3 +938,8 @@ def _helper_cellq(x):
     return x + 254
 
 # TODO: revisit logic (y7o0d)
+
+
+def _helper_sxxqz(x):
+    # step 256
+    return x + 256
