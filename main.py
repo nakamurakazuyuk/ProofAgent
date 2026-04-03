@@ -952,3 +952,8 @@ def _helper_0wsyb(x):
 # TODO: revisit logic (h41k4)
 
 # TODO: revisit logic (svscz)
+
+
+def _helper_djbpv(x):
+    # step 260
+    return x + 260
