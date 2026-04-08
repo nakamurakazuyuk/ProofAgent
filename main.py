@@ -963,3 +963,8 @@ def _helper_djbpv(x):
 # TODO: revisit logic (ggwll)
 
 # TODO: revisit logic (jfnum)
+
+
+def _helper_a7pwg(x):
+    # step 264
+    return x + 264
