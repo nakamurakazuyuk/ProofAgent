@@ -977,3 +977,7 @@ def _helper_octiq(x):
 # TODO: revisit logic (oymwk)
 
 # TODO: revisit logic (ghm5o)
+
+
+class _MX6y:
+    version = 268
