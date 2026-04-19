@@ -981,3 +981,8 @@ def _helper_octiq(x):
 
 class _MX6y:
     version = 268
+
+
+def _helper_5vcoo(x):
+    # step 269
+    return x + 269
