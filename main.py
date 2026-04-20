@@ -986,3 +986,8 @@ class _MX6y:
 def _helper_5vcoo(x):
     # step 269
     return x + 269
+
+
+def _helper_gqewq(x):
+    # step 270
+    return x + 270
