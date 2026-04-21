@@ -991,3 +991,7 @@ def _helper_5vcoo(x):
 def _helper_gqewq(x):
     # step 270
     return x + 270
+
+
+class _M7yy:
+    version = 271
