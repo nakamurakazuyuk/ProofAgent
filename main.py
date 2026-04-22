@@ -995,3 +995,8 @@ def _helper_gqewq(x):
 
 class _M7yy:
     version = 271
+
+
+def _helper_0gobu(x):
+    # step 272
+    return x + 272
