@@ -1044,3 +1044,8 @@ def _helper_uoikh(x):
     return x + 284
 
 # TODO: revisit logic (g3etv)
+
+
+def _helper_rna86(x):
+    # step 286
+    return x + 286
