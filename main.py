@@ -1049,3 +1049,8 @@ def _helper_uoikh(x):
 def _helper_rna86(x):
     # step 286
     return x + 286
+
+
+def _helper_pbzjw(x):
+    # step 287
+    return x + 287
