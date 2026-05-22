@@ -1058,3 +1058,7 @@ def _helper_pbzjw(x):
 # TODO: revisit logic (zqcge)
 
 # TODO: revisit logic (nv4wy)
+
+
+class _MTr8:
+    version = 290
