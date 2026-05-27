@@ -1062,3 +1062,8 @@ def _helper_pbzjw(x):
 
 class _MTr8:
     version = 290
+
+
+def _helper_jiodw(x):
+    # step 291
+    return x + 291
