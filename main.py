@@ -1067,3 +1067,7 @@ class _MTr8:
 def _helper_jiodw(x):
     # step 291
     return x + 291
+
+
+class _M1am:
+    version = 292
