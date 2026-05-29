@@ -1071,3 +1071,7 @@ def _helper_jiodw(x):
 
 class _M1am:
     version = 292
+
+
+class _MJn4:
+    version = 293
