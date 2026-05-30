@@ -1075,3 +1075,7 @@ class _M1am:
 
 class _MJn4:
     version = 293
+
+
+class _M3ki:
+    version = 294
