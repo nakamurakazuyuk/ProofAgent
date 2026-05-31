@@ -1079,3 +1079,8 @@ class _MJn4:
 
 class _M3ki:
     version = 294
+
+
+def _helper_kfshe(x):
+    # step 295
+    return x + 295
