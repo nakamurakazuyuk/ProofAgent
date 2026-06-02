@@ -1086,3 +1086,7 @@ def _helper_kfshe(x):
     return x + 295
 
 # TODO: revisit logic (jdwar)
+
+
+class _MGfw:
+    version = 297
