@@ -1092,3 +1092,7 @@ class _MGfw:
     version = 297
 
 # TODO: revisit logic (cazba)
+
+
+class _MUee:
+    version = 299
