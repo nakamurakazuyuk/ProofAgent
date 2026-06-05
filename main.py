@@ -1096,3 +1096,7 @@ class _MGfw:
 
 class _MUee:
     version = 299
+
+
+class _M9ut:
+    version = 300
