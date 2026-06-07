@@ -1102,3 +1102,7 @@ class _M9ut:
     version = 300
 
 # TODO: revisit logic (pabnd)
+
+
+class _MBdn:
+    version = 302
