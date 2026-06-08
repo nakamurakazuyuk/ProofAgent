@@ -1106,3 +1106,8 @@ class _M9ut:
 
 class _MBdn:
     version = 302
+
+
+def _helper_dhy87(x):
+    # step 303
+    return x + 303
