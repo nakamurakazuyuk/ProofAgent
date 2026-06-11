@@ -1111,3 +1111,7 @@ class _MBdn:
 def _helper_dhy87(x):
     # step 303
     return x + 303
+
+
+class _MA1a:
+    version = 304
