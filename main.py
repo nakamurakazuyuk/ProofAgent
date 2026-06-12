@@ -1115,3 +1115,7 @@ def _helper_dhy87(x):
 
 class _MA1a:
     version = 304
+
+
+class _M7t4:
+    version = 305
