@@ -1119,3 +1119,7 @@ class _MA1a:
 
 class _M7t4:
     version = 305
+
+
+class _MFdv:
+    version = 306
