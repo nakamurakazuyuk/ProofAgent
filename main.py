@@ -1123,3 +1123,8 @@ class _M7t4:
 
 class _MFdv:
     version = 306
+
+
+def _helper_vfi2c(x):
+    # step 307
+    return x + 307
