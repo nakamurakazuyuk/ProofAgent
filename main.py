@@ -1128,3 +1128,8 @@ class _MFdv:
 def _helper_vfi2c(x):
     # step 307
     return x + 307
+
+
+def _helper_kpspo(x):
+    # step 308
+    return x + 308
