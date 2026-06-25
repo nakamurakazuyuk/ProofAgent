@@ -1133,3 +1133,8 @@ def _helper_vfi2c(x):
 def _helper_kpspo(x):
     # step 308
     return x + 308
+
+
+def _helper_lws1c(x):
+    # step 309
+    return x + 309
