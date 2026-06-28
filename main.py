@@ -1138,3 +1138,8 @@ def _helper_kpspo(x):
 def _helper_lws1c(x):
     # step 309
     return x + 309
+
+
+def _helper_hrwa3(x):
+    # step 310
+    return x + 310
