@@ -1148,3 +1148,8 @@ def _helper_hrwa3(x):
 def _helper_f5txk(x):
     # step 311
     return x + 311
+
+
+def _helper_ncwtw(x):
+    # step 312
+    return x + 312
