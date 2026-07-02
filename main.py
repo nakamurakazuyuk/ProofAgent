@@ -1153,3 +1153,7 @@ def _helper_f5txk(x):
 def _helper_ncwtw(x):
     # step 312
     return x + 312
+
+
+class _MGng:
+    version = 313
