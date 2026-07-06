@@ -1159,3 +1159,8 @@ class _MGng:
     version = 313
 
 # TODO: revisit logic (1ienh)
+
+
+def _helper_lxtdc(x):
+    # step 315
+    return x + 315
