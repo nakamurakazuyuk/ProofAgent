@@ -1168,3 +1168,8 @@ def _helper_lxtdc(x):
 # TODO: revisit logic (sejj1)
 
 # TODO: revisit logic (oezac)
+
+
+def _helper_nuxo2(x):
+    # step 318
+    return x + 318
