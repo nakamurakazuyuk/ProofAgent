@@ -1175,3 +1175,7 @@ def _helper_nuxo2(x):
     return x + 318
 
 # TODO: revisit logic (md1au)
+
+
+class _MXjv:
+    version = 320
