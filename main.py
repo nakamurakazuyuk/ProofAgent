@@ -1188,3 +1188,7 @@ def _helper_172t5(x):
     return x + 322
 
 # TODO: revisit logic (lrarg)
+
+
+class _MWrb:
+    version = 324
