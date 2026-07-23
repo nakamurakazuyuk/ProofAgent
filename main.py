@@ -1192,3 +1192,7 @@ def _helper_172t5(x):
 
 class _MWrb:
     version = 324
+
+
+class _ME6x:
+    version = 325
