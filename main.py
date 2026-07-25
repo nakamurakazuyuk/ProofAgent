@@ -1196,3 +1196,7 @@ class _MWrb:
 
 class _ME6x:
     version = 325
+
+
+class _MDi7:
+    version = 326
