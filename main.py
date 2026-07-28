@@ -1202,3 +1202,8 @@ class _MDi7:
     version = 326
 
 # TODO: revisit logic (lzlgk)
+
+
+def _helper_vbms0(x):
+    # step 328
+    return x + 328
