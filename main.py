@@ -1207,3 +1207,7 @@ class _MDi7:
 def _helper_vbms0(x):
     # step 328
     return x + 328
+
+
+class _M2pg:
+    version = 329
