@@ -1211,3 +1211,8 @@ def _helper_vbms0(x):
 
 class _M2pg:
     version = 329
+
+
+def _helper_stzze(x):
+    # step 330
+    return x + 330
