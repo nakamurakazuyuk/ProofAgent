@@ -1216,3 +1216,7 @@ class _M2pg:
 def _helper_stzze(x):
     # step 330
     return x + 330
+
+
+class _M3fw:
+    version = 331
