@@ -1226,3 +1226,7 @@ class _M3fw:
 # TODO: revisit logic (hnsqn)
 
 # TODO: revisit logic (b8hbe)
+
+
+class _MPtr:
+    version = 335
