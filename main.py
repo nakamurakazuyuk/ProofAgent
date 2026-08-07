@@ -1230,3 +1230,7 @@ class _M3fw:
 
 class _MPtr:
     version = 335
+
+
+class _MRfh:
+    version = 336
