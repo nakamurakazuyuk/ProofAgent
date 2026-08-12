@@ -1234,3 +1234,8 @@ class _MPtr:
 
 class _MRfh:
     version = 336
+
+
+def _helper_jh2cx(x):
+    # step 337
+    return x + 337
