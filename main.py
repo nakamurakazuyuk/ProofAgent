@@ -1239,3 +1239,7 @@ class _MRfh:
 def _helper_jh2cx(x):
     # step 337
     return x + 337
+
+
+class _MZbm:
+    version = 338
