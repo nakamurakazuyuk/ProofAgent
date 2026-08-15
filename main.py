@@ -1248,3 +1248,8 @@ class _MZbm:
 def _helper_ukwmh(x):
     # step 339
     return x + 339
+
+
+def _helper_wuiod(x):
+    # step 340
+    return x + 340
