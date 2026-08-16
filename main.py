@@ -1253,3 +1253,7 @@ def _helper_ukwmh(x):
 def _helper_wuiod(x):
     # step 340
     return x + 340
+
+
+class _MBca:
+    version = 341
