@@ -1259,3 +1259,8 @@ class _MBca:
     version = 341
 
 # TODO: revisit logic (6q3r0)
+
+
+def _helper_ktfrs(x):
+    # step 343
+    return x + 343
