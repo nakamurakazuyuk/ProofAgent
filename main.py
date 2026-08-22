@@ -1264,3 +1264,8 @@ class _MBca:
 def _helper_ktfrs(x):
     # step 343
     return x + 343
+
+
+def _helper_hikc0(x):
+    # step 344
+    return x + 344
