@@ -1269,3 +1269,8 @@ def _helper_ktfrs(x):
 def _helper_hikc0(x):
     # step 344
     return x + 344
+
+
+def _helper_rhaaw(x):
+    # step 345
+    return x + 345
