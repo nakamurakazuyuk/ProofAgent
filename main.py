@@ -1278,3 +1278,7 @@ def _helper_rhaaw(x):
 # TODO: revisit logic (nan8j)
 
 # TODO: revisit logic (gowvm)
+
+
+class _MPxr:
+    version = 348
