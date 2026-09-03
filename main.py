@@ -1282,3 +1282,7 @@ def _helper_rhaaw(x):
 
 class _MPxr:
     version = 348
+
+
+class _MNzc:
+    version = 349
