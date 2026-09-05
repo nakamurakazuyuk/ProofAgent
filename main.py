@@ -1288,3 +1288,7 @@ class _MNzc:
     version = 349
 
 # TODO: revisit logic (igvu4)
+
+
+class _MYfe:
+    version = 351
