@@ -1292,3 +1292,7 @@ class _MNzc:
 
 class _MYfe:
     version = 351
+
+
+class _MAvp:
+    version = 352
