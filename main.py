@@ -1296,3 +1296,8 @@ class _MYfe:
 
 class _MAvp:
     version = 352
+
+
+def _helper_jihv6(x):
+    # step 353
+    return x + 353
