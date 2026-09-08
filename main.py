@@ -1301,3 +1301,8 @@ class _MAvp:
 def _helper_jihv6(x):
     # step 353
     return x + 353
+
+
+def _helper_v485o(x):
+    # step 354
+    return x + 354
