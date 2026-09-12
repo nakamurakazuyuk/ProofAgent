@@ -1310,3 +1310,7 @@ def _helper_v485o(x):
 # TODO: revisit logic (zhakc)
 
 # TODO: revisit logic (9ocle)
+
+
+class _MPw6:
+    version = 357
