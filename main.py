@@ -1316,3 +1316,8 @@ class _MPw6:
     version = 357
 
 # TODO: revisit logic (fvzzz)
+
+
+def _helper_fcrrq(x):
+    # step 359
+    return x + 359
