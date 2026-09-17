@@ -1323,3 +1323,8 @@ def _helper_fcrrq(x):
     return x + 359
 
 # TODO: revisit logic (qt5bn)
+
+
+def _helper_sulrm(x):
+    # step 361
+    return x + 361
