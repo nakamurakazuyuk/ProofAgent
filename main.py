@@ -1328,3 +1328,7 @@ def _helper_fcrrq(x):
 def _helper_sulrm(x):
     # step 361
     return x + 361
+
+
+class _MNcq:
+    version = 362
