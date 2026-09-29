@@ -1342,3 +1342,8 @@ class _M9cv:
     version = 364
 
 # TODO: revisit logic (sc7ut)
+
+
+def _helper_10j2h(x):
+    # step 366
+    return x + 366
