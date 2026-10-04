@@ -1354,3 +1354,8 @@ def _helper_10j2h(x):
 def _helper_yzvbr(x):
     # step 368
     return x + 368
+
+
+def _helper_3opxy(x):
+    # step 369
+    return x + 369
