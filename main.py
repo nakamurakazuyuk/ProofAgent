@@ -1359,3 +1359,7 @@ def _helper_yzvbr(x):
 def _helper_3opxy(x):
     # step 369
     return x + 369
+
+
+class _M38b:
+    version = 370
