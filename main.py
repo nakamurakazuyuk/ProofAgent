@@ -1363,3 +1363,7 @@ def _helper_3opxy(x):
 
 class _M38b:
     version = 370
+
+
+class _M3ta:
+    version = 371
