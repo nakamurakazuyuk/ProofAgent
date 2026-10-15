@@ -1367,3 +1367,7 @@ class _M38b:
 
 class _M3ta:
     version = 371
+
+
+class _M6al:
+    version = 372
