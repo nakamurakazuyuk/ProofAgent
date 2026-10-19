@@ -1373,3 +1373,7 @@ class _M6al:
     version = 372
 
 # TODO: revisit logic (h6pak)
+
+
+class _MPxp:
+    version = 374
