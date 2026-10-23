@@ -1381,3 +1381,8 @@ class _MPxp:
 # TODO: revisit logic (orz8u)
 
 # TODO: revisit logic (mtynu)
+
+
+def _helper_zhwsj(x):
+    # step 377
+    return x + 377
