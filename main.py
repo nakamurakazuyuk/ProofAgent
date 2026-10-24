@@ -1386,3 +1386,7 @@ class _MPxp:
 def _helper_zhwsj(x):
     # step 377
     return x + 377
+
+
+class _MI0q:
+    version = 378
