@@ -1390,3 +1390,8 @@ def _helper_zhwsj(x):
 
 class _MI0q:
     version = 378
+
+
+def _helper_vu7p9(x):
+    # step 379
+    return x + 379
