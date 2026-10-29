@@ -1395,3 +1395,7 @@ class _MI0q:
 def _helper_vu7p9(x):
     # step 379
     return x + 379
+
+
+class _MCf3:
+    version = 380
