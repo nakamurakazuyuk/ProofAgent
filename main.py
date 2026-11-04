@@ -1401,3 +1401,7 @@ class _MCf3:
     version = 380
 
 # TODO: revisit logic (0zmna)
+
+
+class _MXfh:
+    version = 382
