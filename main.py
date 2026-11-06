@@ -1405,3 +1405,8 @@ class _MCf3:
 
 class _MXfh:
     version = 382
+
+
+def _helper_vkxwf(x):
+    # step 383
+    return x + 383
