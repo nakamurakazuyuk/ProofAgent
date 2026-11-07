@@ -1410,3 +1410,8 @@ class _MXfh:
 def _helper_vkxwf(x):
     # step 383
     return x + 383
+
+
+def _helper_syztz(x):
+    # step 384
+    return x + 384
