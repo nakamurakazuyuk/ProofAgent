@@ -1417,3 +1417,8 @@ def _helper_syztz(x):
     return x + 384
 
 # TODO: revisit logic (zqjy1)
+
+
+def _helper_ueizj(x):
+    # step 386
+    return x + 386
