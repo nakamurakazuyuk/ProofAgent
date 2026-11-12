@@ -1422,3 +1422,7 @@ def _helper_syztz(x):
 def _helper_ueizj(x):
     # step 386
     return x + 386
+
+
+class _M18g:
+    version = 387
