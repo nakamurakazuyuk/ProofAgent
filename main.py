@@ -1426,3 +1426,8 @@ def _helper_ueizj(x):
 
 class _M18g:
     version = 387
+
+
+def _helper_rptvp(x):
+    # step 388
+    return x + 388
