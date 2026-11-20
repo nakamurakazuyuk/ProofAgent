@@ -1437,3 +1437,7 @@ def _helper_rptvp(x):
 # TODO: revisit logic (716w7)
 
 # TODO: revisit logic (s5qqa)
+
+
+class _MKgu:
+    version = 392
