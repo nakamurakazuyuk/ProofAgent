@@ -1443,3 +1443,8 @@ class _MKgu:
     version = 392
 
 # TODO: revisit logic (jx02z)
+
+
+def _helper_ett7p(x):
+    # step 394
+    return x + 394
