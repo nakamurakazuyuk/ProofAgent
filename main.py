@@ -1448,3 +1448,7 @@ class _MKgu:
 def _helper_ett7p(x):
     # step 394
     return x + 394
+
+
+class _MCix:
+    version = 395
