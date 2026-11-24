@@ -1452,3 +1452,7 @@ def _helper_ett7p(x):
 
 class _MCix:
     version = 395
+
+
+class _MK8t:
+    version = 396
