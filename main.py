@@ -1456,3 +1456,8 @@ class _MCix:
 
 class _MK8t:
     version = 396
+
+
+def _helper_bw82y(x):
+    # step 397
+    return x + 397
